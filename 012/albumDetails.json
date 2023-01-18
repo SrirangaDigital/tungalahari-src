@@ -1,0 +1,47 @@
+{
+    "info": {
+        "vocals": "Smt. Meenakshi Ganesh, Smt. Bhavana Iyer & Kumari. Maalavika Sundar",
+        "director": "Sri.V.Subrahmaniam",
+        "producer": "The Chityala Family; New York",
+        "music": {
+            "veena": "Smt. Jayalakshmi Sekhar",
+            "violin": "Shri. R. K. Shriramkumar",
+            "flute": "Smt. Mala Chandrasekar",
+            "mridangam": "Shri. J. Vaidyanathan"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Śrī Sadāśivendrastava by H.H. Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃhabhāratī Mahāsvāminaḥ (Sanskrit)",
+            "writer": "H.H. Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃhabhāratī Mahāsvāminaḥ",
+            "duration": "54:17",
+            "title_dev": "श्रीसदाशिवेन्द्रस्तवः",
+            "title_kan": "ಶ್ರೀಸದಾಶಿವೇಂದ್ರಸ್ತವ",
+            "title_tam": "ஶ்ரீஸதாஶிவேந்த்ரஸ்தவ",
+            "title_tel": "శ్రీసదాశివేన్ద్రస్తవ",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंहभारती महास्वामिन:",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳವರು",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ ந்ஸிஂஹபாரதீ மஹாஸ்வாமிகல்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహభారతీ మహాస్వామిన:",
+            "writer_mal": "ശ്രീ ശ്രീ സച്ചിദാനന്ദ ശിവാഭിനവ നൃസിംഹഭാരതീ മഹാസ്വാമിഗല്",
+            "writer_guj": "શ્રી શ્રી સચ્ચિદાનન્દ શિવાભિનવ નૃસિંહભારતી મહાસ્વામિન:"
+        },
+        {
+            "id": "song_002",
+            "title": "Piba re rāma rasaṃ rasane by Śrī Sadāśivabrahmendra (Sanskrit)",
+            "writer": "Śrī Sadāśivabrahmendra",
+            "duration": "6:54",
+            "title_dev": "पिब रे राम रसं रसने",
+            "title_kan": "ಪಿಬ ರೇ ರಾಮ ರಸಂ ರಸನೇ",
+            "title_tam": "பிப ரே ராம ரஸஂ ரஸநே",
+            "title_tel": "పిబ రే రామ రసం రసనే",
+            "writer_dev": "श्रीसदाशिवब्रह्मेन्द्रः",
+            "writer_kan": "ಶ್ರೀಸದಾಶಿವಬ್ರಹ್ಮೇಂದ್ರ",
+            "writer_tam": "ஶ்ரீஸதாஶிவப்ரஹ்மேந்த்ர",
+            "writer_tel": "శ్రీసదాశివబ్రహ్మేన్ద్ర",
+            "writer_mal": "ശ്രീസദാശിവബ്രഹ്മേന്ദ്ര",
+            "writer_guj": "શ્રીસદાશિવબ્રહ્મેન્દ્ર"
+        }
+    ]
+}

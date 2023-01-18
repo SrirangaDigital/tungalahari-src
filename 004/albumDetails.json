@@ -1,59 +1,119 @@
 {
-	"info" : {
-		"vocals" : "Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi",
-		"director" : "Sringeri Asthana Vidwan; Shri T. S. Anantharama Bhagavathar; Mumbai",
-		"producer" : "Sri Bharati Tirtha Trust, Sringeri",
-		"music" : {
-			"veena" : "Smt. Hemalata Veeramani",
-			"violin" : "Shri. Shivkumar A and Smt. B. Shanta",
-			"mridangam" : "Shri. S. Shankaranarayan",
-			"tabala" : "Master Mahesh",
-			"Casio" : "Shri. Syamsunder K. S",
-			"Flute" : "Smt. Hema Balasubramaniam"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Śrī Gurudhyānam",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "6:27"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Śrī Subrahmanyēśvaragītam",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "6:21"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Bhaja Rē Lōkaguruṃ",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "6:01"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Śaṅkaradēśika Māmava",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "6:43"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Aṣṭakam",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "12:37"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Dharma Śāsta Stōtram",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "12:04"
-		},
-		{
-			"id" : "song_007",
-			"title" : "Śrīśaṅkarācāryavaryam",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "3:39"
-		}
-	]
+    "info": {
+        "vocals": "Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi",
+        "director": "Sringeri Asthana Vidwan; Shri T. S. Anantharama Bhagavathar; Mumbai",
+        "producer": "Sri Bharati Tirtha Trust, Sringeri",
+        "music": {
+            "veena": "Smt. Hemalata Veeramani",
+            "violin": "Shri. Shivkumar A and Smt. B. Shanta",
+            "mridangam": "Shri. S. Shankaranarayan",
+            "tabala": "Master Mahesh",
+            "Casio": "Shri. Syamsunder K. S",
+            "Flute": "Smt. Hema Balasubramaniam"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Śrī Gurudhyānam",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "6:27",
+            "title_dev": "श्री गुरुध्यानम्",
+            "title_kan": "ಶ್ರೀ ಗುರುಧ್ಯಾನಮ್",
+            "title_tam": "ஶ்ரீ குருத்யாநம்",
+            "title_tel": "శ్రీ గురుధ్యానమ్",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_002",
+            "title": "Śrī Subrahmanyēśvaragītam",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "6:21",
+            "title_dev": "श्री सुब्रह्मन्येश्वरगीतम्",
+            "title_kan": "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯೇಶ್ವರಗೀತಮ್",
+            "title_tam": "ஶ்ரீ ஸுப்ரஹ்மந்யேஶ்வரகீதம்",
+            "title_tel": "శ్రీ సుబ్రహ్మన్యేశ్వరగీతమ్",
+            "title_mal": "ശ്രീ സുബ്രഹ്മന്യേശ്വരഗീതമ്",
+            "title_guj": "શ્રી સુબ્રહ્મન્યેશ્વરગીતમ્",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్",
+            "writer_mal": "ശ്രീ ശ്രീ ഭാരതീ തീര്ഥ മഹാസ്വാമിഗള്",
+            "writer_guj": "શ્રી શ્રી ભારતી તીર્થ મહાસ્વામિગળ્"
+        },
+        {
+            "id": "song_003",
+            "title": "Bhaja Rē Lōkaguruṃ",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "6:01",
+            "title_dev": "भज रे लोकगुरुं",
+            "title_kan": "ಭಜ ರೇ ಲೋಕಗುರುಂ",
+            "title_tam": "பஜ ரே லோககுருஂ",
+            "title_tel": "భజ రే లోకగురుం",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_004",
+            "title": "Śaṅkaradēśika Māmava",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "6:43",
+            "title_dev": "शङ्करदेशिक मामव",
+            "title_kan": "ಶಂಕರದೇಶಿಕ ಮಾಮವ",
+            "title_tam": "ஶங்கரதேஶிக மாமவ",
+            "title_tel": "శఙ్కరదేశిక మామవ",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Aṣṭakam",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "12:37",
+            "title_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती अष्टकम्",
+            "title_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಅಷ್ಟಕಮ್",
+            "title_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ அஷ்டகம்",
+            "title_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ అష్టకమ్",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_006",
+            "title": "Dharma Śāsta Stōtram",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "12:04",
+            "title_dev": "धर्म शास्त स्तोत्रम्",
+            "title_kan": "ಧರ್ಮ ಶಾಸ್ತ ಸ್ತೋತ್ರಮ್",
+            "title_tam": "தர்ம ஶாஸ்த ஸ்தோத்ரம்",
+            "title_tel": "ధర్మ శాస్త స్తోత్రమ్",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_007",
+            "title": "Śrīśaṅkarācāryavaryam",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "3:39",
+            "title_dev": "श्रीशङ्कराचार्यवर्यम्",
+            "title_kan": "ಶ್ರೀಶಂಕರಾಚಾರ್ಯವರ್ಯಮ್",
+            "title_tam": "ஶ்ரீஶங்கராசார்யவர்யம்",
+            "title_tel": "శ్రీశఙ్కరాచార్యవర్యమ్",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        }
+    ]
 }

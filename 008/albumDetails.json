@@ -1,51 +1,99 @@
 {
-	"info" : {
-		"vocals" : "Sringeri Sisters; Smt. Sharada Ramanan, Kum T. Srilakshmi, Kum S. Bharati",
-		"director" : "Shri. R. K. Shriramkumar",
-		"producer" : "The Chityala Family; New York",
-		"music" : {
-			"violin" : "Shri. R. K. Shriramkumar",
-			"flute" : "Shri. B. Balasai",
-			"veena" : "Shri. B. Kannan",
-			"mridangam" : "Shri. N Manoj Siva"
-			}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Śrī Kṛṣṇa Ṣaṭkam",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "4:08"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Śrī Nṛsiṃha Saptakam",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "5:59"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Śrī Padmanābha Stōtram",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "18:59"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Śrī Hanūmat Caturviṃśatiḥ",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "16:09"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Bhavabandhamukti Aṣṭakam",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "7:54"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Śrī Dattātrēya Stavaḥ",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "20:56"
-		}
-	]
+    "info": {
+        "vocals": "Sringeri Sisters; Smt. Sharada Ramanan, Kum T. Srilakshmi, Kum S. Bharati",
+        "director": "Shri. R. K. Shriramkumar",
+        "producer": "The Chityala Family; New York",
+        "music": {
+            "violin": "Shri. R. K. Shriramkumar",
+            "flute": "Shri. B. Balasai",
+            "veena": "Shri. B. Kannan",
+            "mridangam": "Shri. N Manoj Siva"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Śrī Kṛṣṇa Ṣaṭkam",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "4:08",
+            "title_dev": "श्री कृष्ण षट्कम्",
+            "title_kan": "ಶ್ರೀ ಕೃಷ್ಣ ಷಟ್ಕಮ್",
+            "title_tam": "ஶ்ரீ கஷ்ண ஷட்கம்",
+            "title_tel": "శ్రీ కృష్ణ షట్కమ్",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_002",
+            "title": "Śrī Nṛsiṃha Saptakam",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "5:59",
+            "title_dev": "श्री नृसिंह सप्तकम्",
+            "title_kan": "ಶ್ರೀ ನೃಸಿಂಹ ಸಪ್ತಕಮ್",
+            "title_tam": "ஶ்ரீ நஸிஂஹ ஸப்தகம்",
+            "title_tel": "శ్రీ నృసింహ సప్తకమ్",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_003",
+            "title": "Śrī Padmanābha Stōtram",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "18:59",
+            "title_dev": "श्री पद्मनाभ स्तोत्रम्",
+            "title_kan": "ಶ್ರೀ ಪದ್ಮನಾಭ ಸ್ತೋತ್ರಮ್",
+            "title_tam": "ஶ்ரீ பத்மநாப ஸ்தோத்ரம்",
+            "title_tel": "శ్రీ పద్మనాభ స్తోత్రమ్",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_004",
+            "title": "Śrī Hanūmat Caturviṃśatiḥ",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "16:09",
+            "title_dev": "श्री हनूमत् चतुर्विंशतिः",
+            "title_kan": "ಶ್ರೀ ಹನೂಮತ್ ಚತುರ್ವಿಂಶತಿಃ",
+            "title_tam": "ஶ்ரீ ஹநூமத் சதுர்விஂஶதிஃ",
+            "title_tel": "శ్రీ హనూమత్ చతుర్వింశతిః",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Bhavabandhamukti Aṣṭakam",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "7:54",
+            "title_dev": "भवबन्धमुक्ति अष्टकम्",
+            "title_kan": "ಭವಬಂಧಮುಕ್ತಿ ಅಷ್ಟಕಮ್",
+            "title_tam": "பவபந்தமுக்தி அஷ்டகம்",
+            "title_tel": "భవబన్ధముక్తి అష్టకమ్",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_006",
+            "title": "Śrī Dattātrēya Stavaḥ",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "20:56",
+            "title_dev": "श्री दत्तात्रेय स्तवः",
+            "title_kan": "ಶ್ರೀ ದತ್ತಾತ್ರೇಯ ಸ್ತವಃ",
+            "title_tam": "ஶ்ரீ தத்தாத்ரேய ஸ்தவஃ",
+            "title_tel": "శ్రీ దత్తాత్రేయ స్తవః",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        }
+    ]
 }

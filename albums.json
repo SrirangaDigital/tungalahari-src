@@ -4,57 +4,134 @@
     {
       "id": "album_009",
       "title": "Śrī Guru Suvarṇamālā",
+	  "title_dev": "श्री गुरु सुवर्णमाला",
+	  "title_kan": "ಶ್ರೀ ಗುರು ಸುವರ್ಣಮಾಲಾ",
+	  "title_tam": "ஶ்ரீ கு³ரு ஸுவர்ணமாலா",
+	  "title_tel": "శ్రీ గురు సువర్ణమాలా",
+	  "title_mal": "ശ്രീ ഗുരു സുവര്ണമാലാ",
+	  "title_guj": "શ્રી ગુરુ સુવર્ણમાલા",
       "numOfSongs": 6
     },
     {
       "id": "album_006",
       "title": "Bhakti Sudhā Taraṅginī - Vol. 1",
+	  "title_dev": "भक्ति सुधा तरङ्गिनी",
+	  "title_kan": "ಭಕ್ತಿ ಸುಧಾ ತರಂಗಿಣೀ",
+	  "title_tam": "ப⁴க்தி ஸுதா⁴ தரங்கி³னீ",
+	  "title_tel": "భక్తి సుధా తరಂగినీ",
+	  "title_mal": "ഭക്തി സുധാ തരങ്ഗിനീ",
+	  "title_guj": "ભક્તિ સુધા તરઙ્ગિની",
       "numOfSongs": 11
     },
     {
       "id": "album_007",
       "title": "Bhakti Sudhā Taraṅginī - Vol. 2",
+	  "title_dev": "भक्ति सुधा तरङ्गिनी",
+	  "title_kan": "ಭಕ್ತಿ ಸುಧಾ ತರಂಗಿಣೀ",
+	  "title_tam": "ப⁴க்தி ஸுதா⁴ தரங்கி³னீ",
+	  "title_tel": "భక్తి సుధా తరಂగినీ",
+	  "title_mal": "ഭക്തി സുധാ തരങ്ഗിനീ",
+	  "title_guj": "ભક્તિ સુધા તરઙ્ગિની",
       "numOfSongs": 7
     },
     {
       "id": "album_008",
       "title": "Bhakti Sudhā Taraṅginī - Vol. 3",
+	  "title_dev": "भक्ति सुधा तरङ्गिनी",
+	  "title_kan": "ಭಕ್ತಿ ಸುಧಾ ತರಂಗಿಣೀ",
+	  "title_tam": "ப⁴க்தி ஸுதா⁴ தரங்கி³னீ",
+	  "title_tel": "భక్తి సుధా తరಂగినీ",
+	  "title_mal": "ഭക്തി സുധാ തരങ്ഗിനീ",
+	  "title_guj": "ભક્તિ સુધા તરઙ્ગિની",
       "numOfSongs": 6
     },
     {
       "id": "album_010",
       "title": "Gurudēvatāstutilaharī",
+	  "title_dev": "गुरुद्ēवतास्तुतिलहरी",
+	  "title_kan": "ಗುರುದೇವತಾಸ್ತುತಿಲಹರೀ",
+	  "title_tam": "கு³ருத்³ēவதாஸ்துதிலஹரீ",
+	  "title_tel": "గురుద్ēవతాస్తుతిలహరీ",
+	  "title_mal": "ഗുരുദ്ēവതാസ്തുതിലഹരീ",
+	  "title_guj": "ગુરુદ્ēવતાસ્તુતિલહરી",
       "numOfSongs": 14
     },
     {
       "id": "album_005",
       "title": "Bhakti Sudhā - Vol. 1",
+ 	  "title_dev": "भक्ति सुधा",
+	  "title_kan": "ಭಕ್ತಿ ಸುಧಾ",
+	  "title_tam": "ப⁴க்தி ஸுதா⁴",
+	  "title_tel": "భక్తి సుధా",
+	  "title_mal": "ഭക്തി സുധാ",
+	  "title_guj": "ભક્તિ સુધા",
       "numOfSongs": 6
     },
     {
       "id": "album_003",
       "title": "Jagadguru’s Compositions - Vol. 1",
+	  "title_dev": "",
+	  "title_kan": "",
+	  "title_tam": "",
+	  "title_tel": "",
+	  "title_mal": "",
+	  "title_guj": "",
       "numOfSongs": 6
     },
     {
       "id": "album_004",
       "title": "Jagadguru’s Compositions - Vol. 2",
+	  "title_dev": "",
+	  "title_kan": "",
+	  "title_tam": "",
+	  "title_tel": "",
+	  "title_mal": "",
+	  "title_guj": "",
       "numOfSongs": 7
     },
     {
       "id": "album_011",
       "title": "Homage to Sadāśiva Brahmēndraḷ",
+	  "title_dev": "",
+	  "title_kan": "",
+	  "title_tam": "",
+	  "title_tel": "",
+	  "title_mal": "",
+	  "title_guj": "",
       "numOfSongs": 15
     },
     {
       "id": "album_001",
       "title": "Śrī Śāradā Stuti Mañjarī - Vol. 1",
+	  "title_dev": "श्री शारदा स्तुति मञ्जरी",
+	  "title_kan": "ಶ್ರೀ ಶಾರದಾ ಸ್ತುತಿ ಮಂಜರೀ",
+	  "title_tam": "ஶ்ரீ ஶாரதா³ ஸ்துதி மஞ்ஜரீ",
+	  "title_tel": "శ్రీ శారదా స్తుతి మಂజరీ",
+	  "title_mal": "ശ്രീ ശാരദാ സ്തുതി മഞ്ജരീ",
+	  "title_guj": "શ્રી શારદા સ્તુતિ મઞ્જરી",
       "numOfSongs": 9
     },
     {
       "id": "album_002",
       "title": "Śrī Śāradā Stuti Mañjarī - Vol. 2",
+	  "title_dev": "श्री शारदा स्तुति मञ्जरी",
+	  "title_kan": "ಶ್ರೀ ಶಾರದಾ ಸ್ತುತಿ ಮಂಜರೀ",
+	  "title_tam": "ஶ்ரீ ஶாரதா³ ஸ்துதி மஞ்ஜரீ",
+	  "title_tel": "శ్రీ శారదా స్తుతి మಂజరీ",
+	  "title_mal": "ശ്രീ ശാരദാ സ്തുതി മഞ്ജരീ",
+	  "title_guj": "શ્રી શારદા સ્તુતિ મઞ્જરી",
       "numOfSongs": 16
-    }
+    },
+	{
+	  "id": "album_012",
+	  "title": "Gurukīrtanāni - Śrī Sadāśivendrastavaḥ",
+	  "title_dev": "गुरुकीर्तनानि - श्री सदाशिवेन्द्रस्तवः",
+	  "title_kan": "ಗುರುಕೀರ್ತನಾನಿ - ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರಸ್ತವಃ",
+	  "title_tam": "குருகீர்தநாநி - ஶ்ரீ ஸதாஶிவேந்த்ரஸ்தவஃ",
+	  "title_tel": "గురుకీర్తనాని - శ్రీ సదాశివేన్ద్రస్తవః",
+	  "title_mal": "ഗുരുകീര്തനാനി - ശ്രീ സദാശിവേന്ദ്രസ്തവഃ",
+	  "title_guj": "ગુરુકીર્તનાનિ - શ્રી સદાશિવેન્દ્રસ્તવઃઃ",
+	  "numOfSongs": 2
+	}
   ]
 }
