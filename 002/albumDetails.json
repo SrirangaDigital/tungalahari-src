@@ -1,109 +1,259 @@
 {
-	"info" : {
-		"vocals" : "Sangita Kalanidhi Smt. R. Vedavalli",
-		"director" : "",
-		"producer" : "The Chityala Family; New York",
-		"music" : {
-			"violin" : "Shri. R. K. Shriramkumar",
-			"mridangam" : "Shri. K. Arunprakash"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Invocatory verse from Śrī Ganēśa Stuti Mañjarī",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "1:22"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Śrī Śāradāśataślōkī\nVedābhyāsa Jaḍōpi",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "3:11"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Śrī Śāradāśataślōkī\nKamanīyakavitvadām",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "4:21"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Śrī Śāradāśataślōkī\nVaṇi Sarasvati",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "1:03"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Kalāvatī Kamalāsana Yuvatī",
-			"writer" : "",
-			"duration" : "3:43"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Śrī Śāradādaśakam\nGatijitamarālagarvāṃ",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "1:18"
-		},
-		{
-			"id" : "song_007",
-			"title" : "Sarasvatī Cāyātaraṅgiṇi",
-			"writer" : "",
-			"duration" : "3:55"
-		},
-		{
-			"id" : "song_008",
-			"title" : "Śrī Śāradāstavakadambam\nBālacandra",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "10:18"
-		},
-		{
-			"id" : "song_009",
-			"title" : "Śrī Vāṇīśaraṇagatistōtram\nVēṇīṃ",
-			"writer" : "",
-			"duration" : "1:24"
-		},
-		{
-			"id" : "song_010",
-			"title" : "Namō Namastē Gīrvāṇī",
-			"writer" : "",
-			"duration" : "2:55"
-		},
-		{
-			"id" : "song_011",
-			"title" : "Śrī Śāradāstutiḥ\nSarasvati Kṛpānidhē",
-			"writer" : "",
-			"duration" : "2:00"
-		},
-		{
-			"id" : "song_012",
-			"title" : "Sarasvatyā Bhagavatyā Saṃrakṣitōhaṃ",
-			"writer" : "",
-			"duration" : "4:49"
-		},
-		{
-			"id" : "song_013",
-			"title" : "Śrī Vāṇīśaraṇagatistōtram\nBalōḍupa",
-			"writer" : "",
-			"duration" : "1:17"
-		},
-		{
-			"id" : "song_014",
-			"title" : "Śarāvati Taṭavāsinī",
-			"writer" : "",
-			"duration" : "2:27"
-		},
-		{
-			"id" : "song_015",
-			"title" : "Śrī Śāradāstavakadambam\nMudrāpustakamālikā",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "6:03"
-		},
-		{
-			"id" : "song_016",
-			"title" : "Vidyā Mudrākṣamālā",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "1:27"
-		}
-	]
+    "info": {
+        "vocals": "Sangita Kalanidhi Smt. R. Vedavalli",
+        "director": "",
+        "producer": "The Chityala Family; New York",
+        "music": {
+            "violin": "Shri. R. K. Shriramkumar",
+            "mridangam": "Shri. K. Arunprakash"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Invocatory verse from Śrī Ganēśa Stuti Mañjarī",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "1:22",
+            "title_dev": "श्री गणेश स्तुति मञ्जरी",
+            "title_kan": " ಶ್ರೀ ಗಣೇಶ ಸ್ತುತಿ ಮಂಜರೀ",
+            "title_tam": "இந்வோசதோர்ய் வேர்ஸே fரோம் ஶ்ரீ கநேஶ ஸ்துதி மஞ்ஜரீ",
+            "title_tel": "ఇన్వోచతోర్య్ వేర్సే fరోమ్ శ్రీ గనేశ స్తుతి మఞ్జరీ",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_002",
+            "title": "Śrī Śāradāśataślōkī\nVedābhyāsa Jaḍōpi",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "3:11",
+            "title_dev": "श्री शारदाशतश्लोकी\nवेदाभ्यास जडोपि",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾಶತಶ್ಲೋಕೀ\nವೇದಾಭ್ಯಾಸ ಜಡೋಪಿ",
+            "title_tam": "ஶ்ரீ ஶாரதாஶதஶ்லோகீ\nவேதாப்யாஸ ஜடோபி",
+            "title_tel": "శ్రీ శారదాశతశ్లోకీ\nవేదాభ్యాస జడోపి",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_003",
+            "title": "Śrī Śāradāśataślōkī\nKamanīyakavitvadām",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "4:21",
+            "title_dev": "श्री शारदाशतश्लोकी\nकमनीयकवित्वदाम्",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾಶತಶ್ಲೋಕೀ\nಕಮನೀಯಕವಿತ್ವದಾಮ್",
+            "title_tam": "ஶ்ரீ ஶாரதாஶதஶ்லோகீ\nகமநீயகவித்வதாம்",
+            "title_tel": "శ్రీ శారదాశతశ్లోకీ\nకమనీయకవిత్వదామ్",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_004",
+            "title": "Śrī Śāradāśataślōkī\nVaṇi Sarasvati",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "1:03",
+            "title_dev": "श्री शारदाशतश्लोकी\nवाणी सरस्वति",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾಶತಶ್ಲೋಕೀ\nವಾಣೀ ಸರಸ್ವತಿ",
+            "title_tam": "ஶ்ரீ ஶாரதாஶதஶ்லோகீ\nவணி ஸரஸ்வதி",
+            "title_tel": "శ్రీ శారదాశతశ్లోకీ\nవణి సరస్వతి",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Kalāvatī Kamalāsana Yuvatī",
+            "writer": "",
+            "duration": "3:43",
+            "title_dev": "कलावती कमलासन युवती",
+            "title_kan": "ಕಲಾವತೀ ಕಮಲಾಸನ ಯುವತೀ",
+            "title_tam": "கலாவதீ கமலாஸந யுவதீ",
+            "title_tel": "కలావతీ కమలాసన యువతీ",
+            "title_mal": "കലാവതീ കമലാസന യുവതീ",
+            "title_guj": "કલાવતી કમલાસન યુવતી",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_006",
+            "title": "Śrī Śāradādaśakam\nGatijitamarālagarvāṃ",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "1:18",
+            "title_dev": "श्री शारदादशकम्\nगतिजितमरालगर्वां",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾದಶಕಮ್\nಗತಿಜಿತಮರಾಲಗರ್ವಾಂ",
+            "title_tam": "ஶ்ரீ ஶாரதாதஶகம்\nகதிஜிதமராலகர்வாஂ",
+            "title_tel": "శ్రీ శారదాదశకమ్\nగతిజితమరాలగర్వాం",
+            "title_mal": "ശ്രീ ശാരദാദശകമ്\nഗതിജിതമരാലഗര്വാം",
+            "title_guj": "શ્રી શારદાદશકમ્\nગતિજિતમરાલગર્વાં",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్",
+            "writer_mal": "ശ്രീ സച്ചിദാനന്ദ ശിവാഭിനവ നൃസിംഹ ഭാരതീ മഹാസ്വാമിഗള്",
+            "writer_guj": "શ્રી સચ્ચિદાનન્દ શિવાભિનવ નૃસિંહ ભારતી મહાસ્વામિગળ્"
+        },
+        {
+            "id": "song_007",
+            "title": "Sarasvatī Cāyātaraṅgiṇi",
+            "writer": "",
+            "duration": "3:55",
+            "title_dev": "सरस्वती छायातरङ्गिणि",
+            "title_kan": "ಸರಸ್ವತೀ ಛಾಯಾತರಂಗಿಣಿ",
+            "title_tam": "ஸரஸ்வதீ சாயாதரங்கிணி",
+            "title_tel": "సరస్వతీ చాయాతరఙ్గిణి",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_008",
+            "title": "Śrī Śāradāstavakadambam\nBālacandra",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "10:18",
+            "title_dev": "श्री शारदास्तवकदम्बम्\nबालचन्द्र",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾಸ್ತವಕದಂಬಮ್\nಬಾಲಚಂದ್ರ",
+            "title_tam": "ஶ்ரீ ஶாரதாஸ்தவகதம்பம்\nபாலசந்த்ர",
+            "title_tel": "శ్రీ శారదాస్తవకదమ్బమ్\nబాలచన్ద్ర",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನನ್ದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_009",
+            "title": "Śrī Vāṇīśaraṇagatistōtram\nVēṇīṃ",
+            "writer": "",
+            "duration": "1:24",
+            "title_dev": "श्री वाणीशरणगतिस्तोत्रम्\nवेणीं",
+            "title_kan": "ಶ್ರೀ ವಾಣೀಶರಣಗತಿಸ್ತೋತ್ರಮ್\nವೇಣೀಂ",
+            "title_tam": "ஶ்ரீ வாணீஶரணகதிஸ்தோத்ரம்\nவேணீஂ",
+            "title_tel": "శ్రీ వాణీశరణగతిస్తోత్రమ్\nవేణీం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_010",
+            "title": "Namō Namastē Gīrvāṇī",
+            "writer": "",
+            "duration": "2:55",
+            "title_dev": "नमो नमस्ते गीर्वाणी",
+            "title_kan": "ನಮೋ ನಮಸ್ತೇ ಗೀರ್ವಾಣೀ",
+            "title_tam": "நமோ நமஸ்தே கீர்வாணீ",
+            "title_tel": "నమో నమస్తే గీర్వాణీ",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_011",
+            "title": "Śrī Śāradāstutiḥ\nSarasvati Kṛpānidhē",
+            "writer": "",
+            "duration": "2:00",
+            "title_dev": "श्री शारदास्तुतिः\nसरस्वति कृपानिधे",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾಸ್ತುತಿಃ\nಸರಸ್ವತಿ ಕೃಪಾನಿಧೇ",
+            "title_tam": "ஶ்ரீ ஶாரதாஸ்துதிஃ\nஸரஸ்வதி கபாநிதே",
+            "title_tel": "శ్రీ శారదాస్తుతిః\nసరస్వతి కృపానిధే",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_012",
+            "title": "Sarasvatyā Bhagavatyā Saṃrakṣitōhaṃ",
+            "writer": "",
+            "duration": "4:49",
+            "title_dev": "सरस्वत्या भगवत्या सम्रक्षितोहम्̣",
+            "title_kan": "ಸರಸ್ವತ್ಯಾ ಭಗವತ್ಯಾ ಸಂರಕ್ಷಿತೋಹಮ್̣",
+            "title_tam": "ஸரஸ்வத்யா பகவத்யா ஸம்̣ரக்ஸ்̣இதோஹம்̣",
+            "title_tel": "సరస్వత్యా భగవత్యా సమ్̣రక్స్̣ఇతోహమ్̣",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_013",
+            "title": "Śrī Vāṇīśaraṇagatistōtram\nBalōḍupa",
+            "writer": "",
+            "duration": "1:17",
+            "title_dev": "श्री वाणीशरणगतिस्तोत्रम्\nबालोडुप",
+            "title_kan": "ಶ್ರೀ ವಾಣೀಶರಣಗತಿಸ್ತೋತ್ರಮ್\nಬಾಲೋಡುಪ",
+            "title_tam": "ஶ்ரீ வாணீஶரணகதிஸ்தோத்ரம்\nபலோடுப",
+            "title_tel": "శ్రీ వాణీశరణగతిస్తోత్రమ్\nబలోడుప",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_014",
+            "title": "Śarāvati Taṭavāsinī",
+            "writer": "",
+            "duration": "2:27",
+            "title_dev": "शरावती तटवासिनी",
+            "title_kan": "ಶರಾವತಿ ತಟವಾಸಿನೀ",
+            "title_tam": "ஶராவதி தடவாஸிநீ",
+            "title_tel": "శరావతి తటవాసినీ",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_015",
+            "title": "Śrī Śāradāstavakadambam\nMudrāpustakamālikā",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "6:03",
+            "title_dev": "श्री शारदास्तवकदम्बम्\nमुद्रापुस्तकमालिका",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾಸ್ತವಕದಂಬಮ್\nಮುದ್ರಾಪುಸ್ತಕಮಾಲಿಕಾ",
+            "title_tam": "ஶ்ரீ ஶாரதாஸ்தவகதம்பம்\nமுத்ராபுஸ்தகமாலிகா",
+            "title_tel": "శ్రీ శారదాస్తవకదమ్బమ్\nముద్రాపుస్తకమాలికా",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_016",
+            "title": "Vidyā Mudrākṣamālā",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "1:27",
+            "title_dev": "विद्या मुद्राक्षमाला",
+            "title_kan": "ವಿದ್ಯಾ ಮುದ್ರಾಕ್ಷಮಾಲಾ",
+            "title_tam": "வித்யா முத்ராக்ஷமாலா",
+            "title_tel": "విద్యా ముద్రాక్షమాలా",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        }
+    ]
 }

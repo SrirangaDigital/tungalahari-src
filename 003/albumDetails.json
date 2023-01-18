@@ -1,53 +1,111 @@
 {
-	"info" : {
-		"vocals" : "Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi",
-		"director" : "Sringeri Asthana Vidwan; Shri T. S. Anantharama Bhagavathar; Mumbai",
-		"producer" : "Sri Bharati Tirtha Trust, Sringeri",
-		"music" : {
-			"veena" : "Smt. Hemalata Veeramani",
-			"violin" : "Shri. Shivkumar A and Smt. B. Shanta",
-			"mridangam" : "Shri. S. Shankaranarayan",
-			"tabala" : "Shri. Pravin Karkare",
-			"keyboard" : "Shri. Sandeep K. S.",
-			"flute" : "Smt. Hema Balasubramaniam"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Vandē Dēvaṃ - Pranamāmi Gaṇēśvaraṃ",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "8:10"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Śrīśāradāmbaṃ Bhajē",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "6:04"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Śrīśaṅkarācāryastavaḥ",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "13:08"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Śrīśaṅkarācāryaṃ Bhaja Rē",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "4:59"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Śrīcandramaulīśvara Varnamālā Stutiḥ",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "10:44"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Dāśarathē Māṃ Pālaya",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "10:28"
-		}
-	]
+    "info": {
+        "vocals": "Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi",
+        "director": "Sringeri Asthana Vidwan; Shri T. S. Anantharama Bhagavathar; Mumbai",
+        "producer": "Sri Bharati Tirtha Trust, Sringeri",
+        "music": {
+            "veena": "Smt. Hemalata Veeramani",
+            "violin": "Shri. Shivkumar A and Smt. B. Shanta",
+            "mridangam": "Shri. S. Shankaranarayan",
+            "tabala": "Shri. Pravin Karkare",
+            "keyboard": "Shri. Sandeep K. S.",
+            "flute": "Smt. Hema Balasubramaniam"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Vandē Dēvaṃ - Pranamāmi Gaṇēśvaraṃ",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "8:10",
+            "title_dev": "वन्दे देवं - प्रणमामि गणेश्वरं",
+            "title_kan": "ವಂದೇ ದೇವಂ - ಪ್ರಣಮಾಮಿ ಗಣೇಶ್ವರಂ",
+            "title_tam": "வந்தே தேவஂ - ப்ரநமாமி கணேஶ்வரஂ",
+            "title_tel": "వన్దే దేవం - ప్రనమామి గణేశ్వరం",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్",
+            "writer_mal": "ശ്രീ ശ്രീ ഭാരതീ തീര്ഥ മഹാസ്വാമിഗള്",
+            "writer_guj": "શ્રી શ્રી ભારતી તીર્થ મહાસ્વામિગળ્"
+        },
+        {
+            "id": "song_002",
+            "title": "Śrīśāradāmbaṃ Bhajē",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "6:04",
+            "title_dev": "श्रीशारदाम्बं भजे",
+            "title_kan": "ಶ್ರೀಶಾರದಾಂಬಂ ಭಜೇ",
+            "title_tam": "ஶ்ரீஶாரதாம்பஂ பஜே",
+            "title_tel": "శ్రీశారదామ్బం భజే",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_003",
+            "title": "Śrīśaṅkarācāryastavaḥ",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "13:08",
+            "title_dev": "श्रीशङ्कराचार्यस्तवः",
+            "title_kan": "ಶ್ರೀಶಂಕರಾಚಾರ್ಯಸ್ತವಃ",
+            "title_tam": "ஶ்ரீஶங்கராசார்யஸ்தவஃ",
+            "title_tel": "శ్రీశఙ్కరాచార్యస్తవః",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_004",
+            "title": "Śrīśaṅkarācāryaṃ Bhaja Rē",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "4:59",
+            "title_dev": "श्रीशङ्कराचार्यं भज रे",
+            "title_kan": "ಶ್ರೀಶಂಕರಾಚಾರ್ಯಂ ಭಜ ರೇ",
+            "title_tam": "ஶ்ரீஶங்கராசார்யஂ பஜ ரே",
+            "title_tel": "శ్రీశఙ్కరాచార్యం భజ రే",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Śrīcandramaulīśvara Varnamālā Stutiḥ",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "10:44",
+            "title_dev": "श्रीचन्द्रमौलीश्वर वर्नमाला स्तुतिः",
+            "title_kan": "ಶ್ರೀಚಂದ್ರಮೌಲೀಶ್ವರ ವರ್ಣಮಾಲಾ ಸ್ತುತಿಃ",
+            "title_tam": "ஶ்ரீசந்த்ரமௌலீஶ்வர வர்நமாலா ஸ்துதிஃ",
+            "title_tel": "శ్రీచన్ద్రమౌలీశ్వర వర్నమాలా స్తుతిః",
+            "title_mal": "ശ്രീചന്ദ്രമൌലീശ്വര വര്നമാലാ സ്തുതിഃ",
+            "title_guj": "શ્રીચન્દ્રમૌલીશ્વર વર્નમાલા સ્તુતિઃ",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్",
+            "writer_mal": "ശ്രീ ശ്രീ ഭാരതീ തീര്ഥ മഹാസ്വാമിഗള്",
+            "writer_guj": "શ્રી શ્રી ભારતી તીર્થ મહાસ્વામિગળ્"
+        },
+        {
+            "id": "song_006",
+            "title": "Dāśarathē Māṃ Pālaya",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "10:28",
+            "title_dev": "दाशरथे मां पालय",
+            "title_kan": "ದಾಶರಥೇ ಮಾಂ ಪಾಲಯ",
+            "title_tam": "தாஶரதே மாஂ பாலய",
+            "title_tel": "దాశరథే మాం పాలయ",
+            "title_mal": "ദാശരഥേ മാം പാലയ",
+            "title_guj": "દાશરથે માં પાલય",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్",
+            "writer_mal": "ശ്രീ ശ്രീ ഭാരതീ തീര്ഥ മഹാസ്വാമിഗള്",
+            "writer_guj": "શ્રી શ્રી ભારતી તીર્થ મહાસ્વામિગળ્"
+        }
+    ]
 }

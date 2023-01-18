@@ -1,48 +1,96 @@
 {
-	"info" : {
-		"vocals" : "Sringeri Sisters; Smt. Sharada Ramanan; Smt. Srilakshmi Vishwanath; Kum. S. Bharati",
-		"director" : "Shri R.K. Shriramkumar",
-		"producer" : "The Chityala Family; New York",
-		"music" : {
-			"violin" : ""
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Pādāvalambanastutiḥ",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "10:28"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Dēśikōtkarṣamañjarī",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "13:21"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Guruprārthanāstōtraṃ",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "11:37"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Śrīmadāchāryēndrastavaṃ",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "7:44"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Navaratnamālā",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "5:30"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Gurusuvarṇamālāstōtraṃ",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "18:06"
-		}
-	]
+    "info": {
+        "vocals": "Sringeri Sisters; Smt. Sharada Ramanan; Smt. Srilakshmi Vishwanath; Kum. S. Bharati",
+        "director": "Shri R.K. Shriramkumar",
+        "producer": "The Chityala Family; New York",
+        "music": {
+            "violin": ""
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Pādāvalambanastutiḥ",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "10:28",
+            "title_dev": "पादावलम्बनस्तुतिः",
+            "title_kan": "ಪಾದಾವಲಂಬನಸ್ತುತಿಃ",
+            "title_tam": "பாதாவலம்பநஸ்துதிஃ",
+            "title_tel": "పాదావలమ్బనస్తుతిః",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_002",
+            "title": "Dēśikōtkarṣamañjarī",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "13:21",
+            "title_dev": "देशिकोत्कर्षमञ्जरी",
+            "title_kan": "ದೇಶಿಕೋತ್ಕರ್ಷಮಂಜರೀ",
+            "title_tam": "தேஶிகோத்கர்ஷமஞ்ஜரீ",
+            "title_tel": "దేశికోత్కర్షమఞ్జరీ",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_003",
+            "title": "Guruprārthanāstōtraṃ",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "11:37",
+            "title_dev": "गुरुप्रार्थनास्तोत्रं",
+            "title_kan": "ಗುರುಪ್ರಾರ್ಥನಾಸ್ತೋತ್ರಂ",
+            "title_tam": "குருப்ரார்தநாஸ்தோத்ரஂ",
+            "title_tel": "గురుప్రార్థనాస్తోత్రం",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_004",
+            "title": "Śrīmadāchāryēndrastavaṃ",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "7:44",
+            "title_dev": "श्रीमदाचार्येन्द्रस्तवं",
+            "title_kan": "ಶ್ರೀಮದಾಚಾರ್ಯೇಂದ್ರಸ್ತವಂ",
+            "title_tam": "ஶ்ரீமதாசார்யேந்த்ரஸ்தவஂ",
+            "title_tel": "శ్రీమదాఛార్యేన్ద్రస్తవం",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Navaratnamālā",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "5:30",
+            "title_dev": "नवरत्नमाला",
+            "title_kan": "ನವರತ್ನಮಾಲಾ",
+            "title_tam": "நவரத்நமாலா",
+            "title_tel": "నవరత్నమాలా",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_006",
+            "title": "Gurusuvarṇamālāstōtraṃ",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "18:06",
+            "title_dev": "गुरुसुवर्णमालास्तोत्रं",
+            "title_kan": "ಗುರುಸುವರ್ಣಮಾಲಾಸ್ತೋತ್ರಂ",
+            "title_tam": "குருஸுவர்ணமாலாஸ்தோத்ரஂ",
+            "title_tel": "గురుసువర్ణమాలాస్తోత్రం",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        }
+    ]
 }

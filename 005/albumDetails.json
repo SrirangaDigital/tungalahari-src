@@ -1,54 +1,114 @@
 {
-	"info" : {
-		"vocals" : "Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi",
-		"director" : "Sringeri Asthana Vidwan; Shri T. S. Anantharama Bhagavathar; Mumbai",
-		"producer" : "Sri Bharati Tirtha Trust, Sringeri",
-		"music" : {
-			"violin" : "Shiv Kumar",
-			"keyboard" : "Prem Kumar",
-			"saxophone" : "S. Manikanthan",
-			"mridangam" : "Dr. Sriram Suryanarayan",
-			"thavil" : "k. S. Balamurugan",
-			"tabala" : "Srikant M. Railkar",
-			"edakka" : "Parameshwaran"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Ganēśāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "11:16"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Śivapañcaratnastutiḥ",
-			"writer" : "",
-			"duration" : "8:12"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Naṭēśāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "11:19"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Gauryaṣṭakaṃ",
-			"writer" : "",
-			"duration" : "8:32"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Ambāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "8:56"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Naṭarājāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "7:57"
-		}
-	]
+    "info": {
+        "vocals": "Sringeri Sisters; Smt. Sharada and Smt. Srilakshmi",
+        "director": "Sringeri Asthana Vidwan; Shri T. S. Anantharama Bhagavathar; Mumbai",
+        "producer": "Sri Bharati Tirtha Trust, Sringeri",
+        "music": {
+            "violin": "Shiv Kumar",
+            "keyboard": "Prem Kumar",
+            "saxophone": "S. Manikanthan",
+            "mridangam": "Dr. Sriram Suryanarayan",
+            "thavil": "k. S. Balamurugan",
+            "tabala": "Srikant M. Railkar",
+            "edakka": "Parameshwaran"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Ganēśāṣṭakaṃ",
+            "writer": "",
+            "duration": "11:16",
+            "title_dev": "गणेशाष्टकं",
+            "title_kan": "ಗಣೇಶಾಷ್ಟಕಂ",
+            "title_tam": "கநேஶாஷ்டகஂ",
+            "title_tel": "గనేశాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_002",
+            "title": "Śivapañcaratnastutiḥ",
+            "writer": "",
+            "duration": "8:12",
+            "title_dev": "शिवपञ्चरत्नस्तुतिः",
+            "title_kan": "ಶಿವಪಂಚರತ್ನಸ್ತುತಿಃ",
+            "title_tam": "ஶிவபஞ்சரத்நஸ்துதிஃ",
+            "title_tel": "శివపఞ్చరత్నస్తుతిః",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_003",
+            "title": "Naṭēśāṣṭakaṃ",
+            "writer": "",
+            "duration": "11:19",
+            "title_dev": "नटेशाष्टकं",
+            "title_kan": "ನಟೇಶಾಷ್ಟಕಂ",
+            "title_tam": "நடேஶாஷ்டகஂ",
+            "title_tel": "నటేశాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_004",
+            "title": "Gauryaṣṭakaṃ",
+            "writer": "",
+            "duration": "8:32",
+            "title_dev": "गौर्यष्टकं",
+            "title_kan": "ಗೌರ್ಯಷ್ಟಕಂ",
+            "title_tam": "கௌர்யஷ்டகஂ",
+            "title_tel": "గౌర్యష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_005",
+            "title": "Ambāṣṭakaṃ",
+            "writer": "",
+            "duration": "8:56",
+            "title_dev": "अम्बाष्टकं",
+            "title_kan": "ಅಂಬಾಷ್ಟಕಂ",
+            "title_tam": "அம்பாஷ்டகஂ",
+            "title_tel": "అమ్బాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_006",
+            "title": "Naṭarājāṣṭakaṃ",
+            "writer": "",
+            "duration": "7:57",
+            "title_dev": "नटराजाष्टकं",
+            "title_kan": "ನಟರಾಜಾಷ್ಟಕಂ",
+            "title_tam": "நடராஜாஷ்டகஂ",
+            "title_tel": "నటరాజాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        }
+    ]
 }

@@ -1,105 +1,231 @@
 {
-	"info" : {
-		"vocals" : "Shri T. M. Krishna & Smt. Sangeetha Sivakumar",
-		"director" : "",
-		"producer" : "The Chityala Family; New York",
-		"music" : {
-			"violin" : "Shri. R. K. Shriramkumar",
-			"flute" : "Smt. Mala Chandrasekars",
-			"mridangam" : "Shri N Manoj Siva",
-			"Kanjira" : "Shri B. S. Purushotham"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Benediction by H.H. Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ (Telugu)",
-			"writer" : "",
-			"duration" : "3:10"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Benediction by H.H. Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ (Tamil)",
-			"writer" : "",
-			"duration" : "3:45"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Benediction by H.H. Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ (Kannada)",
-			"writer" : "",
-			"duration" : "3:01"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Sadāśivēndra Pañcaratna Stōtram",
-			"writer" : "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "4:13"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Brūhi Mukundēti",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "8:59"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Sarvaṃ Brahmamayam",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "6:15"
-		},
-		{
-			"id" : "song_007",
-			"title" : "Tungātaraṅgē Gaṅgē",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "4:23"
-		},
-		{
-			"id" : "song_008",
-			"title" : "Bhajarē Gōpālam",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "6:50"
-		},
-		{
-			"id" : "song_009",
-			"title" : "Piba Rē Rāmarasam",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "5:39"
-		},
-		{
-			"id" : "song_010",
-			"title" : "Nahirē Nahi Śaṅkā",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "5:21"
-		},
-		{
-			"id" : "song_011",
-			"title" : "Mānasa Sañcara Rē",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "5:46"
-		},
-		{
-			"id" : "song_012",
-			"title" : "Smara Vāraṃvāraṃ",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "6:18"
-		},
-		{
-			"id" : "song_013",
-			"title" : "Cintā Nāsti Kila",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "6:23"
-		},
-		{
-			"id" : "song_014",
-			"title" : "Gāyati Vanamālī",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "7:34"
-		},
-		{
-			"id" : "song_015",
-			"title" : "Bhaja Rē Yadunāthaṃ",
-			"writer" : "Śrī Sadāśivēndra Sarasvatī Mahāsvāmigaḷ",
-			"duration" : "5:36"
-		}														
-	]
+    "info": {
+        "vocals": "Shri T. M. Krishna & Smt. Sangeetha Sivakumar",
+        "director": "",
+        "producer": "The Chityala Family; New York",
+        "music": {
+            "violin": "Shri. R. K. Shriramkumar",
+            "flute": "Smt. Mala Chandrasekars",
+            "mridangam": "Shri N Manoj Siva",
+            "Kanjira": "Shri B. S. Purushotham"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Benediction by H.H. Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ (Telugu)",
+            "writer": "",
+            "duration": "3:10",
+            "title_dev": "श्री श्री भारती तीर्थ महास्वामिगळ् (तेलुगु)",
+            "title_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ (ತೆಲುಗು)",
+            "title_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள் (தேலுகு)",
+            "title_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్ (తేలుగు)",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_002",
+            "title": "Benediction by H.H. Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ (Tamil)",
+            "writer": "",
+            "duration": "3:45",
+            "title_dev": "बश्री श्री भारती तीर्थ महास्वामिगळ् (तमिल्)",
+            "title_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ (ತಮಿಲ್)",
+            "title_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள் (தமில்)",
+            "title_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్ (తమిల్)",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_003",
+            "title": "Benediction by H.H. Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ (Kannada)",
+            "writer": "",
+            "duration": "3:01",
+            "title_dev": "श्री श्री भारती तीर्थ महास्वामिगळ् (कन्नड)",
+            "title_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ (ಕನ್ನಡ)",
+            "title_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள் (கந்நத)",
+            "title_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్ (కన్నద)",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_004",
+            "title": "Sadāśivēndra Pañcaratna Stōtram",
+            "writer": "Śrī Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "4:13",
+            "title_dev": "सदाशिवेन्द्र पञ्चरत्न स्तोत्रम्",
+            "title_kan": "ಸದಾಶಿವೇಂದ್ರ ಪಂಚರತ್ನ ಸ್ತೋತ್ರಮ್",
+            "title_tam": "ஸதாஶிவேந்த்ர பஞ்சரத்ந ஸ்தோத்ரம்",
+            "title_tel": "సదాశివేన్ద్ర పఞ్చరత్న స్తోత్రమ్",
+            "writer_dev": "श्री श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Brūhi Mukundēti",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "8:59",
+            "title_dev": "ब्रूहि मुकुन्देति",
+            "title_kan": "ಬ್ರೂಹಿ ಮುಕುಂದೇತಿ",
+            "title_tam": "ப்ரூஹி முகுந்தேதி",
+            "title_tel": "బ్రూహి ముకున్దేతి",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_006",
+            "title": "Sarvaṃ Brahmamayam",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "6:15",
+            "title_dev": "सर्वं ब्रह्ममयम्",
+            "title_kan": "ಸರ್ವಂ ಬ್ರಹ್ಮಮಯಮ್",
+            "title_tam": "ஸர்வஂ ப்ரஹ்மமயம்",
+            "title_tel": "సర్వం బ్రహ్మమయమ్",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_007",
+            "title": "Tungātaraṅgē Gaṅgē",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "4:23",
+            "title_dev": "तुन्गातरङ्गे गङ्गे",
+            "title_kan": "ತುಂಗತರಂಗೇ ಗಂಗೇ",
+            "title_tam": "துந்காதரங்கே கங்கே",
+            "title_tel": "తున్గాతరఙ్గే గఙ్గే",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_008",
+            "title": "Bhajarē Gōpālam",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "6:50",
+            "title_dev": "भजरे गोपालम्",
+            "title_kan": "ಭಜರೇ ಗೋಪಾಲಮ್",
+            "title_tam": "பஜரே கோபாலம்",
+            "title_tel": "భజరే గోపాలమ్",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_009",
+            "title": "Piba Rē Rāmarasam",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "5:39",
+            "title_dev": "पिब रे रामरसम्",
+            "title_kan": "ಪಿಬ ರೇ ರಾಮರಸಮ್",
+            "title_tam": "பிப ரே ராமரஸம்",
+            "title_tel": "పిబ రే రామరసమ్",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_010",
+            "title": "Nahirē Nahi Śaṅkā",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "5:21",
+            "title_dev": "नहिरे नहि शङ्का",
+            "title_kan": "ನಹಿರೇ ನಹಿ ಶಂಕಾ",
+            "title_tam": "நஹிரே நஹி ஶங்கா",
+            "title_tel": "నహిరే నహి శఙ్కా",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_011",
+            "title": "Mānasa Sañcara Rē",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "5:46",
+            "title_dev": "मानस सञ्चर रे",
+            "title_kan": "ಮಾನಸ ಸಂಚರ ರೇ",
+            "title_tam": "மாநஸ ஸஞ்சர ரே",
+            "title_tel": "మానస సఞ్చర రే",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_012",
+            "title": "Smara Vāraṃvāraṃ",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "6:18",
+            "title_dev": "स्मर वारंवारं",
+            "title_kan": "ಸ್ಮರ ವಾರಂವಾರಂ",
+            "title_tam": "ஸ்மர வாரஂவாரஂ",
+            "title_tel": "స్మర వారంవారం",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_013",
+            "title": "Cintā Nāsti Kila",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "6:23",
+            "title_dev": "चिन्ता नास्ति किल",
+            "title_kan": "ಚಿಂತಾ ನಾಸ್ತಿ ಕಿಲ",
+            "title_tam": "சிந்தா நாஸ்தி கில",
+            "title_tel": "చిన్తా నాస్తి కిల",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_014",
+            "title": "Gāyati Vanamālī",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "7:34",
+            "title_dev": "गायति वनमाली",
+            "title_kan": "ಗಾಯತಿ ವನಮಾಲೀ",
+            "title_tam": "காயதி வநமாலீ",
+            "title_tel": "గాయతి వనమాలీ",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_015",
+            "title": "Bhaja Rē Yadunāthaṃ",
+            "writer": "Śrī Sadāśivēndra Sarasvatī Mahāsvāminaḥ",
+            "duration": "5:36",
+            "title_dev": "भज रे यदुनाथं",
+            "title_kan": "ಭಜ ರೇ ಯದುನಾಥಂ",
+            "title_tam": "பஜ ரே யதுநாதஂ",
+            "title_tel": "భజ రే యదునాథం",
+            "writer_dev": "श्री सदाशिवेन्द्र सरस्वती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸದಾಶಿವೇಂದ್ರ ಸರಸ್ವತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸதாஶிவேந்த்ர ஸரஸ்வதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సదాశివేన్ద్ర సరస్వతీ మహాస్వామిగళ్"
+        }
+    ]
 }

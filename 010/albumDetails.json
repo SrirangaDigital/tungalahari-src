@@ -1,103 +1,239 @@
 {
-	"info" : {
-		"vocals" : "Smt. Sharada Ramanan; Kum. Bharati",
-		"director" : "Sri. R. K. Shriramkumar",
-		"producer" : "",
-		"music" : {
-			"Violin" : "Sri. R. K. Shriramkumar",
-			"Mridangam" : "Sri. K. Arunprakash",
-			"Ghatam" : "Sri. N Guruprasad",
-			"Flute" : "Sri. J. B. Sruthisagar"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Śrī Gurucaraṇakusumāñjalī",
-			"writer" : "Śrī Ānandatāṇḍavapuraṃ Rāmadāsar",
-			"vocals" : "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
-			"duration" : "8:00"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Bhajisu Biḍade Gurunāthana",
-			"writer" : "Vēdānta Śrī Śivarāma Śāstrī",
-			"vocals" : "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
-			"duration" : "3:22"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Gurudēva Nīnōrva",
-			"writer" : "Vēdānta Śrī Śivarāma Śāstrī",
-			"vocals" : "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
-			"duration" : "3:26"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Guruvē Gatiyennu Manavē",
-			"writer" : "Vēdānta Śrī Śivarāma Śāstrī",
-			"vocals" : "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
-			"duration" : "3:51"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Maṅgalam Guruśaṅkara",
-			"writer" : "Vēdānta Śrī Śivarāma Śāstrī",
-			"duration" : "2:38"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Garuḍagamana Tava Caraṇakamalamiha",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "3:38"
-		},
-		{
-			"id" : "song_007",
-			"title" : "Jaya Dēva - Śrī Śrī Abhinava Vidyātīrtha Mahāsvāmigaḷ",
-			"writer" : "",
-			"duration" : "3:09"
-		},
-		{
-			"id" : "song_008",
-			"title" : "Jaya Dēva - Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"writer" : "",
-			"duration" : "3:15"
-		},
-		{
-			"id" : "song_009",
-			"title" : "Sadāśivāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "6:24"
-		},
-		{
-			"id" : "song_010",
-			"title" : "Śivaśaśaṅkarāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "7:02"
-		},
-		{
-			"id" : "song_011",
-			"title" : "Śrī Candramaulīśvara stutiḥ",
-			"writer" : "",
-			"duration" : "7:44"
-		},
-		{
-			"id" : "song_012",
-			"title" : "Sāmbāṣṭakaṃ",
-			"writer" : "",
-			"duration" : "5:23"
-		},
-		{
-			"id" : "song_013",
-			"title" : "Upamanyukṛtaśivastōtraṃ",
-			"writer" : "",
-			"duration" : "6:34"
-		},
-		{
-			"id" : "song_014",
-			"title" : "Dakṣiṇāmūrtistōtraṃ",
-			"writer" : "",
-			"duration" : "5:45"
-		}
-	]
+    "info": {
+        "vocals": "Smt. Sharada Ramanan; Kum. Bharati",
+        "director": "Sri. R. K. Shriramkumar",
+        "producer": "",
+        "music": {
+            "Violin": "Sri. R. K. Shriramkumar",
+            "Mridangam": "Sri. K. Arunprakash",
+            "Ghatam": "Sri. N Guruprasad",
+            "Flute": "Sri. J. B. Sruthisagar"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Śrī Gurucaraṇakusumāñjalī",
+            "writer": "Śrī Ānandatāṇḍavapuraṃ Rāmadāsar",
+            "vocals": "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
+            "duration": "8:00",
+            "title_dev": "श्री गुरुचरणकुसुमाञ्जली",
+            "title_kan": "ಶ್ರೀ ಗುರುಚರಣಕುಸುಮಾಂಜಲೀ",
+            "title_tam": "ஶ்ரீ குருசரணகுஸுமாஞ்ஜலீ",
+            "title_tel": "శ్రీ గురుచరణకుసుమాఞ్జలీ",
+            "writer_dev": "श्री आनन्दताण्डवपुरं रामदासर्",
+            "writer_kan": "ಶ್ರೀ ಆನನ್ದತಾಣ್ಡವಪುರಂ ರಾಮದಾಸರ್",
+            "writer_tam": "ஶ்ரீ ஆநந்ததாண்டவபுரஂ ராமதாஸர்",
+            "writer_tel": "శ్రీ ఆనన్దతాణ్డవపురం రామదాసర్"
+        },
+        {
+            "id": "song_002",
+            "title": "Bhajisu Biḍade Gurunāthana",
+            "writer": "Vēdānta Śrī Śivarāma Śāstrī",
+            "vocals": "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
+            "duration": "3:22",
+            "title_dev": "भजिसु बिडदे गुरुनाथन",
+            "title_kan": "ಭಜಿಸು ಬಿಡದೇ ಗುರುನಾಥನ",
+            "title_tam": "பஜிஸு பிடதே குருநாதந",
+            "title_tel": "భజిసు బిడదే గురునాథన",
+            "writer_dev": "वेदान्त श्री शिवराम शास्त्री",
+            "writer_kan": "ವೇದಾಂತ ಶ್ರೀ ಶಿವರಾಮ ಶಾಸ್ತ್ರೀ",
+            "writer_tam": "வேதாந்த ஶ்ரீ ஶிவராம ஶாஸ்த்ரீ",
+            "writer_tel": "వేదాన్త శ్రీ శివరామ శాస్త్రీ"
+        },
+        {
+            "id": "song_003",
+            "title": "Gurudēva Nīnōrva",
+            "writer": "Vēdānta Śrī Śivarāma Śāstrī",
+            "vocals": "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
+            "duration": "3:26",
+            "title_dev": "गुरुदेव नीनोर्व",
+            "title_kan": "ಗುರುದೇವ ನೀನೋರ್ವ",
+            "title_tam": "குருதேவ நீநோர்வ",
+            "title_tel": "గురుదేవ నీనోర్వ",
+            "title_mal": "ഗുരുദേവ നീനോര്വ",
+            "title_guj": "ગુરુદેવ નીનોર્વ",
+            "writer_dev": "वेदान्त श्री शिवराम शास्त्री",
+            "writer_kan": "ವೇದಾಂತ ಶ್ರೀ ಶಿವರಾಮ ಶಾಸ್ತ್ರೀ",
+            "writer_tam": "வேதாந்த ஶ்ரீ ஶிவராம ஶாஸ்த்ரீ",
+            "writer_tel": "వేదాన్త శ్రీ శివరామ శాస్త్రీ",
+            "writer_mal": "വേദാന്ത ശ്രീ ശിവരാമ ശാസ്ത്രീ",
+            "writer_guj": "વેદાન્ત શ્રી શિવરામ શાસ્ત્રી"
+        },
+        {
+            "id": "song_004",
+            "title": "Guruvē Gatiyennu Manavē",
+            "writer": "Vēdānta Śrī Śivarāma Śāstrī",
+            "vocals": "Smt. Sharada Ramanan; Kum. Bharati; and Smt. Roopa Shashidhara",
+            "duration": "3:51",
+            "title_dev": "गुरुवे गतियेन्नु मनवे",
+            "title_kan": "ಗುರುವೇ ಗತಿಯೇನ್ನು ಮನವೇ",
+            "title_tam": "குருவே கதியேந்நு மநவே",
+            "title_tel": "గురువే గతియేన్ను మనవే",
+            "writer_dev": "वेदान्त श्री शिवराम शास्त्री",
+            "writer_kan": "ವೇದಾಂತ ಶ್ರೀ ಶಿವರಾಮ ಶಾಸ್ತ್ರೀ",
+            "writer_tam": "வேதாந்த ஶ்ரீ ஶிவராம ஶாஸ்த்ரீ",
+            "writer_tel": "వేదాన్త శ్రీ శివరామ శాస్త్రీ"
+        },
+        {
+            "id": "song_005",
+            "title": "Maṅgalam Guruśaṅkara",
+            "writer": "Vēdānta Śrī Śivarāma Śāstrī",
+            "duration": "2:38",
+            "title_dev": "मङ्गलम् गुरुशङ्कर",
+            "title_kan": "ಮಂಗಲಮ್ ಗುರುಶಂಕರ",
+            "title_tam": "மங்கலம் குருஶங்கர",
+            "title_tel": "మఙ్గలమ్ గురుశఙ్కర",
+            "writer_dev": "वेदान्त श्री शिवराम शास्त्री",
+            "writer_kan": "ವೇದಾಂತ ಶ್ರೀ ಶಿವರಾಮ ಶಾಸ್ತ್ರೀ",
+            "writer_tam": "வேதாந்த ஶ்ரீ ஶிவராம ஶாஸ்த்ரீ",
+            "writer_tel": "వేదాన్త శ్రీ శివరామ శాస్త్రీ"
+        },
+        {
+            "id": "song_006",
+            "title": "Garuḍagamana Tava Caraṇakamalamiha",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "3:38",
+            "title_dev": "गरुडगमन तव चरणकमलमिह",
+            "title_kan": "ಗರುಡಗಮನ ತವ ಚರಣಕಮಲಮಿಹ",
+            "title_tam": "கருடகமந தவ சரணகமலமிஹ",
+            "title_tel": "గరుడగమన తవ చరణకమలమిహ",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_007",
+            "title": "Jaya Dēva - Śrī Śrī Abhinava Vidyātīrtha Mahāsvāminaḥ",
+            "writer": "",
+            "duration": "3:09",
+            "title_dev": "जय देव - श्री श्री अभिनव विद्यातीर्थ महास्वामिगळ्",
+            "title_kan": "ಜಯ ದೇವ - ಶ್ರೀ ಶ್ರೀ ಅಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "title_tam": "ஜய தேவ - ஶ்ரீ ஶ்ரீ அபிநவ வித்யாதீர்த மஹாஸ்வாமிகள்",
+            "title_tel": "జయ దేవ - శ్రీ శ్రీ అభినవ విద్యాతీర్థ మహాస్వామిగళ్",
+            "title_mal": "ജയ ദേവ - ശ്രീ ശ്രീ അഭിനവ വിദ്യാതീര്ഥ മഹാസ്വാമിഗള്",
+            "title_guj": "જય દેવ - શ્રી શ્રી અભિનવ વિદ્યાતીર્થ મહાસ્વામિગળ્",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_008",
+            "title": "Jaya Dēva - Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "writer": "",
+            "duration": "3:15",
+            "title_dev": "जय देव - श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "title_kan": "ಜಯ ದೇವ - ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "title_tam": "ஜய தேவ - ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "title_tel": "జయ దేవ - శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్",
+            "title_mal": "ജയ ദേവ - ശ്രീ ശ്രീ ഭാരതീ തീര്ഥ മഹാസ്വാമിഗള്",
+            "title_guj": "જય દેવ - શ્રી શ્રી ભારતી તીર્થ મહાસ્વામિગળ્",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_009",
+            "title": "Sadāśivāṣṭakaṃ",
+            "writer": "",
+            "duration": "6:24",
+            "title_dev": "सदाशिवाष्टकं",
+            "title_kan": "ಸದಾಶಿವಾಷ್ಟಕಂ",
+            "title_tam": "ஸதாஶிவாஷ்டகஂ",
+            "title_tel": "సదాశివాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_010",
+            "title": "Śivaśaṅkarāṣṭakaṃ",
+            "writer": "",
+            "duration": "7:02",
+            "title_dev": "शिवशङ्कराष्टकं",
+            "title_kan": "ಶಿವಶಂಕರಾಷ್ಟಕಂ",
+            "title_tam": "ஶிவஶங்கராஷ்டகஂ",
+            "title_tel": "శివశశఙ్కరాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_011",
+            "title": "Śrī Candramaulīśvara stutiḥ",
+            "writer": "",
+            "duration": "7:44",
+            "title_dev": "श्री चन्द्रमौलीश्वर स्तुतिः",
+            "title_kan": "ಶ್ರೀ ಚಂದ್ರಮೌಲೀಶ್ವರ ಸ್ತುತಿಃ",
+            "title_tam": "ஶ்ரீ சந்த்ரமௌலீஶ்வர ஸ்துதிஃ",
+            "title_tel": "శ్రీ చన్ద్రమౌలీశ్వర స్తుతిః",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_012",
+            "title": "Sāmbāṣṭakaṃ",
+            "writer": "",
+            "duration": "5:23",
+            "title_dev": "साम्बाष्टकं",
+            "title_kan": "ಸಾಂಬಾಷ್ಟಕಂ",
+            "title_tam": "ஸாம்பாஷ்டகஂ",
+            "title_tel": "సామ్బాష్టకం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_013",
+            "title": "Upamanyukṛtaśivastōtraṃ",
+            "writer": "",
+            "duration": "6:34",
+            "title_dev": "उपमन्युकृतशिवस्तोत्रं",
+            "title_kan": "ಉಪಮನ್ಯುಕೃತಶಿವಸ್ತೋತ್ರಂ",
+            "title_tam": "உபமந்யுகதஶிவஸ்தோத்ரஂ",
+            "title_tel": "ఉపమన్యుకృతశివస్తోత్రం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        },
+        {
+            "id": "song_014",
+            "title": "Dakṣiṇāmūrtistōtraṃ",
+            "writer": "",
+            "duration": "5:45",
+            "title_dev": "दक्षिणामूर्तिस्तोत्रं",
+            "title_kan": "ದಕ್ಷಿಣಾಮೂರ್ತಿಸ್ತೋತ್ರಂ",
+            "title_tam": "தக்ஷிணாமூர்திஸ்தோத்ரஂ",
+            "title_tel": "దక్షిణామూర్తిస్తోత్రం",
+            "writer_dev": "",
+            "writer_kan": "",
+            "writer_tam": "",
+            "writer_tel": "",
+            "writer_mal": "",
+            "writer_guj": ""
+        }
+    ]
 }

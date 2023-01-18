@@ -1,68 +1,140 @@
 {
-	"info" : {
-		"vocals" : "Smt. Bombay Jayashri",
-		"director" : "Shri. R. K. Shriramkumar",
-		"producer" : "The Chityala Family; New York",
-		"music" :	{
-			"violin" : "Shri. R. K. Shriramkumar",
-			"mridangam" : "Shri. N Manoj Siva",
-			"Kanjira" : "Shri. Anirudh Athreya"
-		}
-	},
-	"songs" : [
-		{
-			"id" : "song_001",
-			"title" : "Invocatory verse from Śrī Ganēśa Stuti Mañjarī",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "1:31"
-		},
-		{
-			"id" : "song_002",
-			"title" : "Śrī Śāradā Gītam\nBhagavati Bhavasōdari",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "3:19"
-		},
-		{
-			"id" : "song_003",
-			"title" : "Śrī Śāradā Gītam\nVidhimukhāmbhōjahaṃsi",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "6:00"
-		},
-		{
-			"id" : "song_004",
-			"title" : "Śrī Śāradā Gītam\nŚāradē Karunānidhē",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "6:33"
-		},
-		{
-			"id" : "song_005",
-			"title" : "Śrī Śāradā Bhujaṅgaprayātāṣṭakam",
-			"writer" : "Śrī Ādi Śaṅkara Bhagavatpāda",
-			"duration" : "8:47"
-		},
-		{
-			"id" : "song_006",
-			"title" : "Śrī Śāradā Svarṇaratha Samarpaṇa Padyāvaliḥ",
-			"writer" : "Śrī Śrī Bhāratī Tīrtha Mahāsvāmigaḷ",
-			"duration" : "3:56"
-		},
-		{
-			"id" : "song_007",
-			"title" : "Śrī Kamalajadayitāṣṭakam",
-			"writer" : "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāmigaḷ",
-			"duration" : "14:41"
-		},
-		{
-			"id" : "song_008",
-			"title" : "Śrī Śāradāvarṇamālāstavaḥ",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "11:18"
-		},
-		{
-			"id" : "song_009",
-			"title" : "Śrī Śāradā Gītam\nMaṅgalaṃ Varaṛṣyaśṛṅga nagara vāsini",
-			"writer" : "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāmigaḷ",
-			"duration" : "2:25"
-		}
-	]
+    "info": {
+        "vocals": "Smt. Bombay Jayashri",
+        "director": "Shri. R. K. Shriramkumar",
+        "producer": "The Chityala Family; New York",
+        "music": {
+            "violin": "Shri. R. K. Shriramkumar",
+            "mridangam": "Shri. N Manoj Siva",
+            "Kanjira": "Shri. Anirudh Athreya"
+        }
+    },
+    "songs": [
+        {
+            "id": "song_001",
+            "title": "Invocatory verse from Śrī Ganēśa Stuti Mañjarī",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "1:31",
+            "title_dev": "श्री गणेश स्तुति मञ्जरी",
+            "title_kan": "ಶ್ರೀ ಗಣೇಶ ಸ್ತುತಿ ಮಂಜರೀ",
+            "title_tam": "ஶ்ரீ கநேஶ ஸ்துதி மஞ்ஜரீ",
+            "title_tel": "శ్రీ గనేశ స్తుతి మఞ్జరీ",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_002",
+            "title": "Śrī Śāradā Gītam\nBhagavati Bhavasōdari",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "3:19",
+            "title_dev": "श्री शारदा गीतम्\nभगवति भवसोदरि",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾ ಗೀತಮ್\nಭಗವತಿ ಭವಸೋದರಿ",
+            "title_tam": "ஶ்ரீ ஶாரதா கீதம்\nபகவதி பவஸோதரி",
+            "title_tel": "శ్రీ శారదా గీతమ్\nభగవతి భవసోదరి",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_003",
+            "title": "Śrī Śāradā Gītam\nVidhimukhāmbhōjahaṃsi",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "6:00",
+            "title_dev": "श्री शारदा गीतम्\nविधिमुखाम्भोजहंसि",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾ ಗೀತಮ್\nವಿಧಿಮುಖಾಂಭೋಜಹಂಸಿ",
+            "title_tam": "ஶ்ரீ ஶாரதா கீதம்\nவிதிமுகாம்போஜஹஂஸி",
+            "title_tel": "శ్రీ శారదా గీతమ్\nవిధిముఖామ్భోజహంసి",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_004",
+            "title": "Śrī Śāradā Gītam\nŚāradē Karunānidhē",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "6:33",
+            "title_dev": "श्री शारदा गीतम्\nशारदे करुनानिधे",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾ ಗೀತಮ್\nಶಾರದೇ ಕರುಣಾನಿಧೇ",
+            "title_tam": "ஶ்ரீ ஶாரதா கீதம்\nஶாரதே கருநாநிதே",
+            "title_tel": "శ్రీ శారదా గీతమ్\nశారదే కరునానిధే",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_005",
+            "title": "Śrī Śāradā Bhujaṅgaprayātāṣṭakam",
+            "writer": "Śrī Ādi Śaṅkara Bhagavatpāda",
+            "duration": "8:47",
+            "title_dev": "श्री शारदा भुजङ्गप्रयाताष्टकम्",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾ ಭುಜಂಗಪ್ರಯಾತಾಷ್ಟಕಮ್",
+            "title_tam": "ஶ்ரீ ஶாரதா புஜங்கப்ரயாதாஷ்டகம்",
+            "title_tel": "శ్రీ శారదా భుజఙ్గప్రయాతాష్టకమ్",
+            "writer_dev": "श्री आदि शङ्कर भगवत्पाद",
+            "writer_kan": "ಶ್ರೀ ಆದಿ ಶಂಕರ ಭಗವತ್ಪಾದ",
+            "writer_tam": "ஶ்ரீ ஆதி ஶங்கர பகவத்பாத",
+            "writer_tel": "శ్రీ ఆది శఙ్కర భగవత్పాద"
+        },
+        {
+            "id": "song_006",
+            "title": "Śrī Śāradā Svarṇaratha Samarpaṇa Padyāvaliḥ",
+            "writer": "Śrī Śrī Bhāratī Tīrtha Mahāsvāminaḥ",
+            "duration": "3:56",
+            "title_dev": "श्री शारदा स्वर्णरथ समर्पण पद्यावलिः",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾ ಸ್ವರ್ಣರಥ ಸಮರ್ಪಣ ಪದ್ಯಾವಲಿಃ",
+            "title_tam": "ஶ்ரீ ஶாரதா ஸ்வர்ணரத ஸமர்பண பத்யாவலிஃ",
+            "title_tel": "శ్రీ శారదా స్వర్ణరథ సమర్పణ పద్యావలిః",
+            "writer_dev": "श्री श्री भारती तीर्थ महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ பாரதீ தீர்த மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ భారతీ తీర్థ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_007",
+            "title": "Śrī Kamalajadayitāṣṭakam",
+            "writer": "Śrī Saccidānanda Śivābhinava Nṛsiṃha Bhāratī Mahāsvāminaḥ",
+            "duration": "14:41",
+            "title_dev": "श्री कमलजदयिताष्टकम्",
+            "title_kan": "ಶ್ರೀ ಕಮಲಜದಯಿತಾಷ್ಟಕಮ್",
+            "title_tam": "ஶ்ரீ கமலஜதயிதாஷ்டகம்",
+            "title_tel": "శ్రీ కమలజదయితాష్టకమ్",
+            "writer_dev": "श्री सच्चिदानन्द शिवाभिनव नृसिंह भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஸச்சிதாநந்த ஶிவாபிநவ நஸிஂஹ பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ సచ్చిదానన్ద శివాభినవ నృసింహ భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_008",
+            "title": "Śrī Śāradāvarṇamālāstavaḥ",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "11:18",
+            "title_dev": "श्री शारदावर्णमालास्तवः",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾವರ್ಣಮಾಲಾಸ್ತವಃ",
+            "title_tam": "ஶ்ரீ ஶாரதாவர்ணமாலாஸ்தவஃ",
+            "title_tel": "శ్రీ శారదావర్ణమాలాస్తవః",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        },
+        {
+            "id": "song_009",
+            "title": "Śrī Śāradā Gītam\nMaṅgalaṃ Varaṛṣyaśṛṅga nagara vāsini",
+            "writer": "Śrī Śrī Candraśēkhara Bhāratī Mahāsvāminaḥ",
+            "duration": "2:25",
+            "title_dev": "श्री शारदा गीतम्\nमङ्गलं वरऋष्यशृङ्ग नगर वासिनि",
+            "title_kan": "ಶ್ರೀ ಶಾರದಾ ಗೀತಮ್\nಮಂಗಲಂ ವರಋಷ್ಯಶೃಂಗ ನಗರ ವಾಸಿನಿ",
+            "title_tam": "ஶ்ரீ ஶாரதா கீதம்\nமங்கலஂ வரஷ்யஶங்க நகர வாஸிநி",
+            "title_tel": "శ్రీ శారదా గీతమ్\nమఙ్గలం వరఋష్యశృఙ్గ నగర వాసిని",
+            "writer_dev": "श्री श्री चन्द्रशेखर भारती महास्वामिगळ्",
+            "writer_kan": "ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿ",
+            "writer_tam": "ஶ்ரீ ஶ்ரீ சந்த்ரஶேகர பாரதீ மஹாஸ்வாமிகள்",
+            "writer_tel": "శ్రీ శ్రీ చన్ద్రశేఖర భారతీ మహాస్వామిగళ్"
+        }
+    ]
 }
